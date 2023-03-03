@@ -15,5 +15,5 @@ public class ControlMessages
      // the apk path in the unikernel
      public static final String     DIRSERVICE_APK_DIR			= "/app_hub/apks/";
      // the file path in the unikernel
-     public static final String     DIRSERVICE_RESOURCE_DIR     = "/apb_hub/resources/";
+     public static final String     DIRSERVICE_RESOURCE_DIR     = "/app_hub/resources/";
 }

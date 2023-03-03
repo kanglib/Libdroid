@@ -25,7 +25,7 @@ public class DynamicLinker {
 	private static ObjectInputStream      reader            = null;
 	private static ObjectOutputStream     writer            = null;
     private static DaneelClassLoader      classLoader       = null;
-    private static final String libAndroid_path="/libAndroid/Libdroid.jar";
+    private static final String libAndroid_path="file:///libAndroid/Libdroid.jar";
     private static ServerSocket server = null;
     private static Socket client = null;
 
